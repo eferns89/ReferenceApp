@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\nymi-api-nymulator\jars\libs\NclNet.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6e0413fbbaae4e3d8a0f524839cd0a9da86d1ec">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\NclNet-b7e14afab2b4928de4457e549686b41a80c708aa.jar" />
+    </item>
+    <item
+        jar="D:\Users\B4062493\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-02a81b562ab3ec81f188bad303373124fecb5b76.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\nymi-api-nymulator\jars\libs\autobahn-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5f62bc6117f905fd37955f6e2ebd3aad68701b60">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\autobahn-0.5.0-f36a01d73f1e912b9120e74bf0176f3ea15fc397.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\nymi-api-nymulator\jars\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-5539973726580bbb27964169725214bc9f038299.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\classes-71c024bbdc00a5f9ab0281b7638d4f3ec832e4e3.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\nymi-api-nymulator\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d01c921e6aedbd8f9f80211c26a5da24e5e6329">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\classes-e765296094306135b4a13460266b922b47ed0328.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2e6d5a7f0fb8e1d54971bbd74671f437d81b0e76.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\nymi-api-nymulator\jars\libs\jackson-core-asl-1.9.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5cb0d86cffb1f0ff128aacd9ff1b4aef60687c7">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.7-8867045a387b1d40e7bc611920bc277473f2d43f.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\classes-a2639fa4de5a03dadb2bb0fa18ba00344cafc627.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\exploded-aar\nymi-api-nymulator\jars\libs\jackson-mapper-asl-1.9.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bc2efad5ceb9e24e44f731d4282b5df3ea6d23f">
+        <dex dex="D:\Google Drive\Nymi Work\ReferenceApp\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.7-eaa6f2d2a902f62ea885e946a71a6fff9298d015.jar" />
+    </item>
+
+</items>
